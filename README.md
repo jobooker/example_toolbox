@@ -5,4 +5,4 @@ View this project on the [File Exchange](http://www.mathworks.com/matlabcentral/
 
 Project contents
 * sample.mat - data files
-* [sample.mlx]((http://www.mathworks.com/matlabcentral/fileexchange))
+* [sample.mlx](http://www.mathworks.com/matlabcentral/fileexchange)
