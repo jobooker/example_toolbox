@@ -1,3 +1,3 @@
 function output=science(input)
-    output = input;
+    output = 2*input;
 end
